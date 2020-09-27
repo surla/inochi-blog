@@ -25,6 +25,15 @@
   line-height: 1.5;
 }
 
+.textMd {
+  font-size: 1.2rem;
+  line-height: .2;
+}
+
+.textSm {
+  font-size: .95rem;
+}
+
 .borderCircle {
   border-radius: 9999px;
 }
@@ -48,5 +57,6 @@
 }
 
 .lightText {
+  font-size: .90rem;
   color: #999;
 }
